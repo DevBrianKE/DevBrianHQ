@@ -10,15 +10,12 @@
 
 ## Tech Stack
 
-## Tech Stack
+- **Languages:** JavaScript, Python
+- **Frontend:** HTML, CSS, React
+- **Backend:** Node.js, Express
+- **Tools:** Git, VS Code, Postman
 
-<div style="background-color:#f7f7f7; padding:10px; border-radius:5px;">
-  <b>Languages:</b> JavaScript, Python <br>
-  <b>Frontend:</b> HTML, CSS, React <br>
-  <b>Backend:</b> Django <br>
-  <b>Tools:</b> Git, VS Code
-</div>
-
+---
 
 ## GitHub Stats
 
@@ -26,12 +23,13 @@
 
 ---
 
+## Visitor Count
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=DevBrianHQ.DevBrianHQ)
+
+---
+
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- Email: kipchumbabrian47@gmail.com
-
-<!---
-DevBrianHQ/DevBrianHQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Email](https://img.shields.io/badge/Email-Send%20Email-red?style=for-the-badge&logo=gmail)](mailto:kipchumbabrian47@gmail.com)

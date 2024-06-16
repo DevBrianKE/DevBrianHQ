@@ -1,6 +1,6 @@
 # Hi there, I'm Kipchumba Brian! 👋
 
-👀 I’m interested in software engineering, web development, and learning new technologies. <br>
+👀 I’m interested in software engineering, web development, data science and learning new technologies. <br>
 🌱 I’m currently learning full-stack web development, focusing on both front-end and back-end technologies. <br>
 💞️ I’m looking to collaborate on web development projects, especially those involving JavaScript, React, Python, and Flask. <br>
 😄 Pronouns: He/Him <br>
@@ -9,15 +9,6 @@
 ---
 
 ## Tech Stack
-
-- **Languages:** JavaScript, Python
-- **Frontend:** HTML, CSS, React
-- **Backend:** Node.js, Express
-- **Tools:** Git, VS Code, Postman
-
----
-
-## Badges
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)

@@ -1,4 +1,4 @@
-# Hi there, I'm Kipchumba Brian 👋
+# Hi there, I'm Kipchumba Brian! 👋
 
 👀 I’m interested in software engineering, web development, and learning new technologies. <br>
 🌱 I’m currently learning full-stack web development, focusing on both front-end and back-end technologies. <br>
@@ -8,9 +8,6 @@
 
 ---
 
-
-
-
 ## Tech Stack
 
 - **Languages:** JavaScript, Python
@@ -18,17 +15,14 @@
 - **Backend:** Node.js, Express
 - **Tools:** Git, VS Code, Postman
 
+---
+
 ## Badges
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-
----
-
-## Visitor Count
 
 ---
 
@@ -38,6 +32,11 @@
 
 ---
 
+## Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/DevBrianHQ/count.svg)
+
+---
 
 ## Connect with Me
 

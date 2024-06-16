@@ -23,12 +23,6 @@
 
 ---
 
-## Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/DevBrianHQ/count.svg)
-
----
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)

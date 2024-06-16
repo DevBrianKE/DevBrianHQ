@@ -10,20 +10,15 @@
 
 ## Tech Stack
 
-- **Languages:** JavaScript, Python
-- **Frontend:** HTML, CSS, React
-- **Backend:**  Django
-- **Tools:** Git, VS Code
+## Tech Stack
 
----
+<div style="background-color:#f7f7f7; padding:10px; border-radius:5px;">
+  <b>Languages:</b> JavaScript, Python <br>
+  <b>Frontend:</b> HTML, CSS, React <br>
+  <b>Backend:</b> Django <br>
+  <b>Tools:</b> Git, VS Code
+</div>
 
-## Projects
-
-- [Project 1](link): Description of project 1.
-- [Project 2](link): Description of project 2.
-- [Project 3](link): Description of project 3.
-
----
 
 ## GitHub Stats
 
@@ -34,7 +29,7 @@
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- Email: your-email@example.com
+- Email: kipchumbabrian47@gmail.com
 
 <!---
 DevBrianHQ/DevBrianHQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

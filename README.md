@@ -8,6 +8,14 @@
 
 ---
 
+## Portfolio
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://devbrianhq.github.io/My-Portfolio/)
+
+Check out my portfolio website! You'll find some of my best work and more about me. Enjoy your visit!
+
+---
+
 ## Tech Stack
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)

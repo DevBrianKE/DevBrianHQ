@@ -10,7 +10,9 @@
 
 ## Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://devbrianhq.github.io/My-Portfolio/)
+<a href="https://devbrianhq.github.io/My-Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio">
+</a>
 
 Check out my portfolio website! You'll find some of my best work and more about me. Enjoy your visit!
 

@@ -2,7 +2,7 @@
 
 👀 I’m interested in software engineering, web development, data science and learning new technologies. <br>
 🌱 I’m currently learning full-stack web development, focusing on both front-end and back-end technologies. <br>
-💞️ I’m looking to collaborate on web development projects, especially those involving JavaScript, React, Python, and Flask. <br>
+💞️ I’m looking to collaborate on software engineering and web development projects, especially those involving JavaScript, React, Python, Django and Flask. <br>
 😄 Pronouns: He/Him <br>
 ⚡ Fun fact: I love building interactive websites and have a passion for continuous learning and adaptation in tech.
 

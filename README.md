@@ -56,7 +56,7 @@ Explore my projects, skills, and personal journey in tech!
 - **Speed Detector** – JavaScript logic to mimic a speed-tracking application.  
 - **Net Salary Calculator** – Calculates tax, NHIF, NSSF, and net salary based on user input.
 
-> Check out these and more on my [GitHub Repositories](https://github.com/DevBrianHQ)!
+> Check out these and more on my [GitHub Repositories](https://github.com/DevBrianKE)!
 
 ---
 

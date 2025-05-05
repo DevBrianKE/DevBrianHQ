@@ -6,7 +6,7 @@
 😄 Pronouns: He/Him <br>
 ⚡ Fun fact: I love building interactive websites and have a passion for continuous learning and adaptation in tech.
 
----
+--- 
 
 ## Portfolio
 

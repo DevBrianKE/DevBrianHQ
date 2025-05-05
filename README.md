@@ -45,7 +45,7 @@ Explore my projects, skills, and personal journey in tech!
 
 ## 📊 GitHub Stats
 
-![DevBrianHQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevBrianHQ&show_icons=true&theme=radical)
+![DevBrianKE's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevBrianKE&show_icons=true&theme=radical)
 
 ---
 

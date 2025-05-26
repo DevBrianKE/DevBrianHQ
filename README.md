@@ -37,10 +37,11 @@ Building robust web applications while mastering software engineering principles
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| **[Interactive Shopping List](https://github.com/DevBrianKE/WK3CodeChallenge)** | Dynamic list with add/remove functionality using DOM manipulation | JavaScript, HTML, CSS |
-| **[Student Grade Generator](https://github.com/DevBrianKE/WK1CodeChallenge)** | Grading system based on conditional logic | JavaScript |
-| **[Net Salary Calculator](https://github.com/DevBrianKE/WK1CodeChallenge)** | Calculates salary after deductions | JavaScript, Math |
-| **[Speed Detector](https://github.com/DevBrianKE/WK1CodeChallenge)** | Detects over-speeding and demerits | JavaScript, Logic |
+| **[Student Grade Generator](https://github.com/DevBrianKE/WK1CodeChallenge/blob/main/studentGradeGenerator.js)** | Determines student grades based on input marks | JavaScript |
+| **[Speed Detector](https://github.com/DevBrianKE/WK1CodeChallenge/blob/main/speedDetector.js)** | Detects overspeeding and assigns demerit points | JavaScript |
+| **[Net Salary Calculator](https://github.com/DevBrianKE/WK1CodeChallenge/blob/main/netSalaryCalculator.js)** | Calculates salary after taxes and deductions | JavaScript |
+| **[Interactive Shopping List](https://github.com/DevBrianKE/WK3CodeChallenge)** | Dynamically adds/removes items using DOM manipulation | JavaScript, HTML, CSS |
+
 
 [🔍 View All Projects →](https://github.com/DevBrianKE?tab=repositories)
 

@@ -36,11 +36,11 @@ Building robust web applications while mastering software engineering principles
 ## 🚀 Featured Projects
 
 | Project | Description | Technologies |
-|---------|------------|--------------|
-| **[Interactive Shopping List](https://github.com/...)** | Dynamic list with CRUD operations | JavaScript, DOM API |
-| **[Student Grade Generator](https://github.com/...)** | Conditional grading system simulator | JavaScript |
-| **[Net Salary Calculator](https://github.com/...)** | Tax/NHIF deductions calculator | JavaScript, Algorithms |
-| **[Speed Detector](https://github.com/...)** | Speed limit monitoring system | JavaScript Logic |
+|--------|-------------|--------------|
+| **[Interactive Shopping List](https://github.com/DevBrianKE/WK3CodeChallenge)** | Dynamic list with add/remove functionality using DOM manipulation | JavaScript, HTML, CSS |
+| **[Student Grade Generator](https://github.com/DevBrianKE/WK1CodeChallenge)** | Grading system based on conditional logic | JavaScript |
+| **[Net Salary Calculator](https://github.com/DevBrianKE/WK1CodeChallenge)** | Calculates salary after deductions | JavaScript, Math |
+| **[Speed Detector](https://github.com/DevBrianKE/WK1CodeChallenge)** | Detects over-speeding and demerits | JavaScript, Logic |
 
 [🔍 View All Projects →](https://github.com/DevBrianKE?tab=repositories)
 
@@ -58,9 +58,9 @@ Building robust web applications while mastering software engineering principles
 
 ## ✍️ Latest Blog Posts
 
-- [My Journey into Software Engineering](https://devbrianke.hashnode.dev/)
-- [Understanding JavaScript Scope](https://devbrianke.hashnode.dev/)  
-- [Python OOP Principles Explained](https://devbrianke.hashnode.dev/) *(Coming Soon)*
+- [My Journey into Software Engineering](https://devbrianke.hashnode.dev/my-journey-into-software-engineering)
+- [Understanding JavaScript Scope](https://devbrianke.hashnode.dev/understanding-javascript-scope)  
+- [Python OOP Principles Explained](https://devbrianke.hashnode.dev/python-oop-principles-explained) *(Coming Soon)*
 
 [📚 Read More Articles →](https://devbrianke.hashnode.dev/)
 
